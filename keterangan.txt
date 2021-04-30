@@ -1,1 +1,3 @@
 ini adalah file text keterangan
+
+ini file berisi keterangan semua aplikasi
